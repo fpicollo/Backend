@@ -1,0 +1,23 @@
+[
+    {
+    "id": "123e4567-e89b-12d3-a456-426614174000",
+    "description": "Camiseta de algodón negro, talla única",
+    "code": "CAM-001",
+    "price": 25000,
+    "status": true,
+    "stock": 10,
+    "category": "Ropa",
+    "thumbnails": ["https://www.amazon.com/-/es/Camisetas-redondo-paquete-m%C3%BAltiple-G1100/dp/B07XVXSY7M/ref=sr_1_1?adgrpid=152876002246&dib=eyJ2IjoiMSJ9.h8V3RH8eAlPwuni0vpKHRT1y0Pn1ipOWR8WHo1EBy-g9PT575lJPKfAIabIvonM8TNsh2eua28yTNzE-bM7UjBp6CHjMj93DN7WiFRSSLnmnlZNW6qghra8MAVsr2yM3XyIRlE8p7LUgWc2JJeg-nDvwhAnKcSSW40N7UcZ9hNsTq6WX91wVDbUyUMRWvS-HyoLWVR8HNj6nSHApLYnHVpu5y0HnaHbpbmuUWVZKydd6Au4yhsTlvFaePdEH1__4-NOIIgauPr6RjD0p_lFHB659Oydca7vz6K2xpFzpkJ8.3_4PSe0XgRQYaSYj_g1tYGTp43aFAxSf66Gj5_dBjuo&dib_tag=se&hvadid=690301815597&hvdev=c&hvlocphy=9181084&hvnetw=g&hvqmt=b&hvrand=13335074125154795130&hvtargid=kwd-324518013962&hydadcr=9817_13735897&keywords=amazon+online+com&qid=1725934912&sr=8-1"]
+    },
+    {
+    "id": "456e789b-12d3-a456-426614174001",
+    "title": "Pantalón Jeans",
+    "description": "Pantalón jeans clásico, talle alto",
+    "code": "PAN-002",
+    "price": 40000,
+    "status": true,
+    "stock": 5,
+    "category": "Ropa",
+    "thumbnails": ["https://www.amazon.com/-/es/Amazon-Essentials-Pantalones-entallados-antiarrugas/dp/B07756DPX8/ref=zg_bs_g_1045558_d_sccl_3/142-8191913-0095115?psc=1"]
+    }
+]
